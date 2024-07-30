@@ -1,6 +1,11 @@
 # Atliq-Grand-Hotel-Analysis
-Total Percentage of Booking Platforms
-![Screenshot 2024-07-30 194012](https://github.com/user-attachments/assets/c1e10b8d-4867-496f-ab64-7655cb5695ae)
+
+
+Total Percentage of Booking Platforms                     ![Screenshot 2024-07-30 194012](https://github.com/user-attachments/assets/c1e10b8d-4867-496f-ab64-7655cb5695ae)
+
+
+
+
 My First Python Data Analysis Project in Hospitality domain 🚀
 
 🔍 Project Overview: 
