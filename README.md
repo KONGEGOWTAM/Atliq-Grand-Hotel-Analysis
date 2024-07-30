@@ -22,6 +22,7 @@ As a data analyst, I was tasked with delving into their business data spanning f
 - Canva
 
 ❇️ Process Followed: 
+
 1️⃣ Data Import and Exploration: Understanding the dataset's structure and content. 
 
 2️⃣ Data Cleaning: Ensuring data quality and consistency by removing negative values and outliers.
